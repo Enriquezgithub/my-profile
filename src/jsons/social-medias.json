@@ -1,0 +1,15 @@
+{
+  "medias": [
+    {
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/login"
+    },
+    {
+      "name": "facebook",
+      "link": "https://www.facebook.com/profile.php?id=100009362024745"
+    },
+    { "name": "youtube", "link": "https://www.youtube.com/" },
+    { "name": "github", "link": "https://github.com/" },
+    { "name": "google mail", "link": "https://mail.google.com/mail/u/0/#inbox" }
+  ]
+}
